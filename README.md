@@ -10,3 +10,8 @@ For using traces.py
   functionality to add: 
     subtracting baselines etc...
     GUI using Qt or electron
+
+For contact_map.py 
+  
+  edit for distogram or contact map for pdb of interest
+  
