@@ -1,6 +1,6 @@
 # general
 
-For using traces.py 
+For using **traces.py** 
 
   Execute in a conda environment with pandas, matplotlib, seaborn, pyfiglet, and termcolor
   Suggest creating a directory with your csv files and downloading the script to the data directory
@@ -11,7 +11,7 @@ For using traces.py
     subtracting baselines etc...
     GUI using Qt or electron
 
-For distograms and contact map notebook: 
+For **distograms/contact map notebook**: 
   
   Taken from my (KT) class project for MCB288... 
     the code uses Biopython to parse pdb files to grab residues' CAs and calculate distances between each one of chain A against itself
